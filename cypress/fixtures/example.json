@@ -1,0 +1,24 @@
+[
+  {
+  "username": "admin",
+  "password": "Test@123",
+  "testCase": "should be able to login"
+  },
+  {
+  "username": "usercollection",
+  "password": "Test@123",
+  "testcase": "should be able to login"
+  },
+  {
+  "username": "userverifier1",
+  "password": "Test@123",
+  "testcase": "should be able to login"
+  },
+  {
+  "username": "userapprover",
+  "password": "Test@123",
+  "testcase": "should be able to login"
+  }
+]
+
+

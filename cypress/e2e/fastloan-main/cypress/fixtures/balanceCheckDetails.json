@@ -1,0 +1,22 @@
+[   
+    {
+        "Mobilenumber": "9849888889",
+        "Accountnumber": "3307010040858",
+        "Accountname" : "DEEPAK THAPA",
+        "Testcase": "A Balance Account Details should be fetched"
+    },
+    {
+        "Mobilenumber": "9849888889",
+        "Accountnumber": "3307010040888",
+        "Accountname" : "DEEPAK THAPA",
+        "Testcase": "B Balance Account Details should be fetched"
+
+    },
+    {
+        "Mobilenumber": "9849888889",
+        "Accountnumber": "3307010040858",
+        "Accountname" : "DEEPAK THAPA",
+        "Testcase": "C Balance Account Details should be not fetched"
+
+    }
+]

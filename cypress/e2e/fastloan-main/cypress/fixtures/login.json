@@ -1,0 +1,52 @@
+[
+    {
+        "username": "ashish.shrestha",
+        "password": "Test@123456",
+        "testCase": "should be able to log in"
+    },
+    {
+        "username": "ashish.shrestha",
+        "password": "Test@123456",
+        "testCase": "should be able to log in"
+    },
+    {
+        "username": "ashish.shrestha",
+        "password": "Test@123456",
+        "testCase": "should be able to log in"
+    },
+    {
+        "username": "ashish.shrestha",
+        "password": "Test@123456",
+        "testCase": "should be able to log in"
+    },
+    {
+        "username": "ashish.shrestha",
+        "password": "Test@123456",
+        "testCase": "should be able to log in"
+    },
+    {
+        "username": "ashish.shrestha",
+        "password": "Test@123456",
+        "testCase": "should be able to log in"
+    },
+    {
+        "username": "ashish.shrestha",
+        "password": "Test@123456",
+        "testCase": "should be able to log in"
+    },
+    {
+        "username": "ashish.shrestha",
+        "password": "Test@123456",
+        "testCase": "should be able to log in"
+    },
+    {
+        "username": "ashish.shrestha",
+        "password": "Test@123456",
+        "testCase": "should be able to log in"
+    },
+    {
+        "username": "ashish.shresthas",
+        "password": "Test@123456",
+        "testCase": "should not be able to log in wrong username"
+    }
+]
